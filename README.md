@@ -1,5 +1,4 @@
 # New Project
 
-# This Project was created in local system
-
-# created by Shazzad Hosen
+This Project was created in local system </br>
+created by Shazzad Hosen
